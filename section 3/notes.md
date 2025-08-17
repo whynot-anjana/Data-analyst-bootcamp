@@ -26,3 +26,12 @@ we also looked into each data type specificlly along with thier functions. we lo
 
 We looked into operators and their types as well. First we looked into some of the basic mathematical (arithmetic) operators like +,-,*,/,//,%,**. then, we saw comparison operators like >,=,<,>=,<=,!=. then we went into logical operators like and, or and not. 
 
+list(map(int, input().split()))
+
+input() → waits for you to type something (like: 1 2 3)
+.split() → splits your input by spaces → gives: ['1', '2', '3']
+map(int, ...) → converts each '1', '2', '3' to integers → 1, 2, 3
+list(...) → makes that into a list → [1, 2, 3]
+
+matrix = [list(map(int, input("Enter (columns) numbers: ").split())) for _ in range(3)]
+
