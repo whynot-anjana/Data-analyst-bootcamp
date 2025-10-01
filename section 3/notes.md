@@ -35,3 +35,13 @@ list(...) → makes that into a list → [1, 2, 3]
 
 matrix = [list(map(int, input("Enter (columns) numbers: ").split())) for _ in range(3)]
 
+#new day
+
+today i learned about positional and keyword arguements.
+while defining a function, if there are multiple paramters to be passed within, we can use *args or **kwargs depending on the type of parameter to be passed.
+
+*args, called positional arguements is used to pass multiple parameters, example (n1,n2,n3,n4,n5,"hello","hope youre well") can simply be replaced by (*args)
+
+**kwargs, called keyword positional arguements, is used to pass multiple key-value pairs specifically into the function. ex, (name:"anjana", age:21, country:"India", college:"dayananda sagar") can simply be replaced by (* *kwargs)
+
+i also learnt how one fucntion can return multiple parameters in its return statement. 
