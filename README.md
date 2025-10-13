@@ -1,6 +1,6 @@
 # 📊 Data Analyst Bootcamp  
 
-This repository documents my learning journey through an **85-hour Data Analyst Bootcamp**, covering Python, SQL, Excel, Power BI, Tableau, Machine Learning, and more.  
+This repository documents my learning journey through an **95-hour Data Analyst Bootcamp**, covering Python, SQL, Excel, Power BI, Tableau, Machine Learning, and more.  
 
 Each section has its own folder with **notes, Jupyter notebooks, and assignments**.  
 
