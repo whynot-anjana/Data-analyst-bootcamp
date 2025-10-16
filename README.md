@@ -11,7 +11,8 @@ Each section has its own folder with **notes, Jupyter notebooks, and assignments
 - **Section 1:** Introduction  
 - **Section 2:** Setup (Anaconda, VS Code, Git, etc.)  
 - **Section 3:** Python Fundamentals + Assignments  
-- **Section 4:** Data analysis in Python 
+- **Section 4:** Data analysis in Python
+- **Section 4:** Microsoft SQL Server Basics
 *(and so on as I progress...)*  
 
 ---
